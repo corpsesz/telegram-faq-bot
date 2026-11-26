@@ -1,3 +1,9 @@
+<img width="549" height="300" alt="Снимок экрана 2026-11-27 012614" src="https://github.com/user-attachments/assets/e9d2f3b3-0c50-4777-822e-8bc5c00008ca" />
+<img width="478" height="415" alt="Снимок экрана 2026-11-27 012620" src="https://github.com/user-attachments/assets/2588ea69-ae43-41e7-8161-8b1568935cbb" />
+<img width="563" height="594" alt="Снимок экрана 2026-11-27 012626" src="https://github.com/user-attachments/assets/1512946c-976d-4e82-8cca-c78049bb73cb" />
+<img width="490" height="233" alt="Снимок экрана 2026-11-27 012632" src="https://github.com/user-attachments/assets/106c2bfe-f0b5-4c28-a7fb-1a202e65828d" />
+<img width="437" height="195" alt="Снимок экрана 2026-11-27 012637" src="https://github.com/user-attachments/assets/2bbd142b-a531-4fcb-bb30-321f0e6ac817" />
+<img width="367" height="172" alt="Снимок экрана 2026-11-27 012641" src="https://github.com/user-attachments/assets/c7b87a98-67ff-4f6b-9355-5910413897c8" />
 # Telegram FAQ-бот «НеонЛофт»
 
 Навчальний проєкт: Telegram-бот для вигаданої студії цифрового дизайну
