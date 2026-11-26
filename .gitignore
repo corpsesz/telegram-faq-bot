@@ -1,0 +1,32 @@
+# Віртуальне оточення
+.venv/
+venv/
+env/
+
+# Секрети та локальна конфігурація
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# База даних (локальні файли не потрапляють у репозиторій)
+*.db
+*.db3
+*.sqlite
+*.sqlite3
+*.sql
+data/
+db/
+
+# IDE / ОС
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
